@@ -52,7 +52,16 @@
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "unconnected_items|110500000|142500000|87fa19ff-855e-42bb-9e37-25672f658f96|ab8aed4c-252e-4ff1-91aa-ab41c256c545",
+          "Doesn't need connecting"
+        ],
+        [
+          "unconnected_items|138000000|115000000|0021dfd5-b54a-4028-ab56-1d645be57bc3|089f3edf-5f45-447a-aff3-76d8027b3888",
+          "Doesn't need connecting"
+        ]
+      ],
       "meta": {
         "version": 2
       },
