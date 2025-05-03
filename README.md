@@ -1,5 +1,6 @@
 # PCBKeychain
 A keychain with the outline of Miku
+It should be able to light up and vibrate as a thing to toy with.
 # BOM
 - 1 Battery Holder
 - 1 220 Ohm Resistors
