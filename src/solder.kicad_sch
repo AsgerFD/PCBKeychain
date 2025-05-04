@@ -1015,6 +1015,16 @@
 	)
 	(wire
 		(pts
+			(xy 104.14 99.06) (xy 104.14 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "031c453c-5be8-4efc-9001-0bae514941fd")
+	)
+	(wire
+		(pts
 			(xy 163.83 99.06) (xy 163.83 114.3)
 		)
 		(stroke
@@ -1162,16 +1172,6 @@
 			(type default)
 		)
 		(uuid "d12c588e-68da-4977-8cdb-317aa4cb9a05")
-	)
-	(wire
-		(pts
-			(xy 104.14 99.06) (xy 104.14 102.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d492cd1d-6cf8-425d-ac52-130e2de7bc35")
 	)
 	(wire
 		(pts
@@ -1360,7 +1360,7 @@
 	)
 	(symbol
 		(lib_id "Motor:Motor_DC")
-		(at 104.14 107.95 0)
+		(at 104.14 110.49 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1369,25 +1369,25 @@
 		(fields_autoplaced yes)
 		(uuid "189d0c9c-1cc2-4a7a-99a2-edff7469a776")
 		(property "Reference" "M1"
+			(at 109.22 106.6799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Motor_DC"
 			(at 109.22 109.2199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
-			)
-		)
-		(property "Value" "Motor_DC"
-			(at 109.22 111.7599 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
-			(at 104.14 110.236 0)
+			(at 104.14 108.204 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1396,7 +1396,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 104.14 110.236 0)
+			(at 104.14 108.204 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1405,7 +1405,7 @@
 			)
 		)
 		(property "Description" "DC Motor"
-			(at 104.14 107.95 0)
+			(at 104.14 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
