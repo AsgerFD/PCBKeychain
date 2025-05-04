@@ -54,11 +54,11 @@
       "diff_pair_dimensions": [],
       "drc_exclusions": [
         [
-          "unconnected_items|110500000|142500000|87fa19ff-855e-42bb-9e37-25672f658f96|94f5828e-5b32-40f5-92aa-1298e1bcda28",
+          "unconnected_items|109500000|143000000|15332a51-e2de-4107-9758-077e72b70553|8cd74ea9-26dc-4ca4-8959-5e816d8dcedc",
           "Doesn't need connecting"
         ],
         [
-          "unconnected_items|110540000|147040000|bdddbcb1-26f7-4fcb-a213-4c2099c144d8|548a0d2a-a7a8-4a08-90d5-35e14555d35f",
+          "unconnected_items|112015000|134515000|56ec206d-5390-4f10-b4ea-02721e38e7e0|87fa19ff-855e-42bb-9e37-25672f658f96",
           "Doesn't need connecting"
         ],
         [
@@ -66,11 +66,11 @@
           "Doesn't need connecting"
         ],
         [
-          "unconnected_items|133985000|125500000|6c082d55-5632-4b72-b4cb-16e7f262feb0|4ced9964-ea4b-4ab7-8002-8597a5c57071",
+          "unconnected_items|133985000|125500000|a85644f7-9cb4-4716-8065-11b926f0b88f|56ec206d-5390-4f10-b4ea-02721e38e7e0",
           "Doesn't need connecting"
         ],
         [
-          "unconnected_items|138000000|115000000|0021dfd5-b54a-4028-ab56-1d645be57bc3|089f3edf-5f45-447a-aff3-76d8027b3888",
+          "unconnected_items|138000000|115000000|0021dfd5-b54a-4028-ab56-1d645be57bc3|2a84db2b-8139-42be-bbb9-e4e062659dc9",
           "Doesn't need connecting"
         ]
       ],
