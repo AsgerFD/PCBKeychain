@@ -1085,16 +1085,6 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 124.46) (xy 110.49 124.46)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6437df59-727d-47c3-b855-69057a8a2b96")
-	)
-	(wire
-		(pts
 			(xy 152.4 125.73) (xy 153.67 125.73)
 		)
 		(stroke
@@ -1105,7 +1095,7 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 115.57) (xy 104.14 124.46)
+			(xy 104.14 115.57) (xy 104.14 120.65)
 		)
 		(stroke
 			(width 0)
@@ -1165,7 +1155,7 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 124.46) (xy 121.92 124.46)
+			(xy 107.95 124.46) (xy 121.92 124.46)
 		)
 		(stroke
 			(width 0)
@@ -1510,7 +1500,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Potentiometer")
-		(at 114.3 124.46 90)
+		(at 104.14 124.46 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1519,7 +1509,7 @@
 		(fields_autoplaced yes)
 		(uuid "5437181b-7b6c-4f80-8b54-402b5b8c06a3")
 		(property "Reference" "RV1"
-			(at 114.3 128.27 90)
+			(at 104.14 128.27 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1527,7 +1517,7 @@
 			)
 		)
 		(property "Value" "R_Potentiometer"
-			(at 114.3 130.81 90)
+			(at 104.14 130.81 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1535,7 +1525,7 @@
 			)
 		)
 		(property "Footprint" "Potentiometer_THT:Potentiometer_Vishay_T73YP_Vertical"
-			(at 114.3 124.46 0)
+			(at 104.14 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1544,7 +1534,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 114.3 124.46 0)
+			(at 104.14 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1553,7 +1543,7 @@
 			)
 		)
 		(property "Description" "Potentiometer"
-			(at 114.3 124.46 0)
+			(at 104.14 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
