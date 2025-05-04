@@ -9,12 +9,10 @@ It should be able to light up and vibrate as a thing to toy with.
 - 2 Push Buttons
 - 2 LEDs
 # Screenshots
-<img width="633" alt="image" src="https://github.com/user-attachments/assets/b33d604e-a78a-44a3-a84d-e12d05c2fc05" />
-<img width="366" alt="image" src="https://github.com/user-attachments/assets/2fd9c7c7-fd9e-4f4e-a540-f6bff612d9aa" />
-<img width="370" alt="image" src="https://github.com/user-attachments/assets/72034068-957a-4f07-8786-453af6a7d6b3" />
-<img width="368" alt="image" src="https://github.com/user-attachments/assets/4d6d051d-92f2-4fa0-a99a-e85e8149682e" />
-<img width="425" alt="image" src="https://github.com/user-attachments/assets/4a692bf1-c797-4bd8-8ad5-073403ff05ee" />
-<img width="649" alt="image" src="https://github.com/user-attachments/assets/f481e498-7662-4b51-acb8-9c40e88661df" />
-
-
+<img width="815" alt="image" src="https://github.com/user-attachments/assets/d7009127-fe51-4dd7-9a74-007d4d4d72fd" />
+<img width="424" alt="image" src="https://github.com/user-attachments/assets/38990abe-b42c-4b67-840c-7e02a3b26936" />
+<img width="427" alt="image" src="https://github.com/user-attachments/assets/68b0ac60-7f34-451f-b010-9d7254462304" />
+<img width="413" alt="image" src="https://github.com/user-attachments/assets/d5ee0fc9-57ce-47c4-b88a-b3224c01de35" />
+<img width="408" alt="image" src="https://github.com/user-attachments/assets/0257e800-1215-436a-9cb2-8d9781d5b4ac" />
+<img width="416" alt="image" src="https://github.com/user-attachments/assets/bb170db5-f549-4dcf-9627-bd7e2a549005" />
 Made by @Asger Fuglsbjerg on Slack
